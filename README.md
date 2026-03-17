@@ -6,3 +6,4 @@ refactor: improve contract readability
 feat: add fallback function handling
 feat: implement upgrade safety checks
 fix: correct edge case in transfer logic
+feat: add contract pause state validation
