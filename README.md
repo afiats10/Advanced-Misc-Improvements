@@ -9,3 +9,4 @@ fix: correct edge case in transfer logic
 feat: add contract pause state validation
 refactor: remove redundant require statements
 feat: add transaction retry mechanism
+docs: add smart contract interaction examples
