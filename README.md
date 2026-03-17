@@ -8,3 +8,4 @@ feat: implement upgrade safety checks
 fix: correct edge case in transfer logic
 feat: add contract pause state validation
 refactor: remove redundant require statements
+feat: add transaction retry mechanism
